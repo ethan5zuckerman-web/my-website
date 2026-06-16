@@ -2,7 +2,7 @@
 
 Personal portfolio site built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
 
-**Live site:** https://ethan5zuckerman-web.github.io/portfolio/
+**Live site:** https://ethan5zuckerman-web.github.io/my-website/
 
 ## About
 
