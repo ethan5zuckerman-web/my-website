@@ -1,4 +1,4 @@
-# Ethan Zuckerman — Portfolio Website
+# Ethan Zuckerman — Website
 
 Personal portfolio site built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
 
